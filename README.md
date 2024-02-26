@@ -5,4 +5,5 @@ In an attempt to learn Go, I will see how far I get with a text based adventure 
 
 TODO:
 - [ ] Build out graph data structure holding interconntected locations for map
+- [ ] Get Neovim to run gofmt upon saving a file
       
